@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mahesh7780&label=Profile%20views&color=0e75b6&style=flat" alt="Mahesh7780" />
 </p>
 
-- 🔭 I’m currently working on: **AI Tools | Web Automation | AT Agents**
+- 🔭 I’m currently working on: **AI Tools | Web Automation | AI Agents**
 - 🌱 I’m currently learning: **Next.js, Tailwind, Machine Learning**
 - 💬 Ask me about: **JavaScript, React, APIs, GitHub Automation, ChatGPT agents**
 - ⚡ Fun fact: I can turn wild ideas into working code faster than most can finish coffee ☕😄
