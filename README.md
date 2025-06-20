@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mahesh Garlapally</h1>
-<h3 align="center">A passionate Software Engineer and Creative Developer</h3>
+<h3 align="center"> A tech enthusiast and final-year BCA student passionate about building smart digital solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahesh7780&label=Profile%20views&color=0e75b6&style=flat" alt="Mahesh7780" />
