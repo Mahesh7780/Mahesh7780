@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mahesh7780&label=Profile%20views&color=0e75b6&style=flat" alt="Mahesh7780" />
 </p>
 
-- 🔭 I’m currently working on: **AI Tools | Web Automation | T-shirt E-commerce Designs**
+- 🔭 I’m currently working on: **AI Tools | Web Automation | AT Agents **
 - 🌱 I’m currently learning: **Next.js, Tailwind, Machine Learning**
 - 💬 Ask me about: **JavaScript, React, APIs, GitHub Automation, ChatGPT agents**
 - ⚡ Fun fact: I can turn wild ideas into working code faster than most can finish coffee ☕😄
@@ -44,6 +44,6 @@
 ### 📫 Connect with me
 
 <p>
-  <a href="mailto:maheshkumarpothu1503@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahesh-kumar-528aaa240/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto mahesh7780376316@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="[ ](https://www.linkedin.com/in/mahesh-garlapally-b958582a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
