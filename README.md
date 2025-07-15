@@ -25,11 +25,12 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh7780&show_icons=true&theme=tokyonight" />
+<div align="center" style="width: 100%; max-width: 900px; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahesh7780&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%; height: auto; max-width: 100%;">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh7780&theme=tokyonight"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh7780&theme=tokyonight" alt="GitHub Streak" style="width: 100%; height: auto; max-width: 100%;">
+</div>
+
 
 ---
 
